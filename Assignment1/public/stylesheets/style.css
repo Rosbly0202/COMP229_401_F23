@@ -1,0 +1,18 @@
+/**
+ * style.css
+ *
+ * This is a css file for global style
+ * 
+ * Student Name: Fanchu di
+ * Student ID: 301090064
+ * Date: 2023-9-27
+ */
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
